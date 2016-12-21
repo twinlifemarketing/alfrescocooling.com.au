@@ -1,1 +1,1 @@
-http://test.alfrescocooling.com.au
+http://alfrescocooling.com.au
